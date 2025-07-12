@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <SpaRoot>ClientApp\</SpaRoot>
-    <SpaProxyServerUrl>https://localhost:44447</SpaProxyServerUrl>
-    <SpaProxyLaunchCommand>npm start</SpaProxyLaunchCommand>
+    <SpaProxyServerUrl>http://localhost:5173</SpaProxyServerUrl>
+    <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
     <RootNamespace>MaxMath.Web</RootNamespace>
     <AssemblyName>MaxMath.Web</AssemblyName>
   </PropertyGroup>
